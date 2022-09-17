@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "scDDboost"]
-	path = scDDboost
-	url = https://github.com/wiscstatman/scddboost
-	shallow = true
-	registered = true
